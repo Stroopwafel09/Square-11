@@ -3,7 +3,6 @@ asyncio
 youtube-dl
 pynacl
 FFmpeg
-google
 beautifulsoup4
 asyncpraw
 aiohttp
