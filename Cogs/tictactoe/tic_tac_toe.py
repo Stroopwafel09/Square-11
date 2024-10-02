@@ -129,7 +129,7 @@ class TicTacToeBot(commands.Bot):
         print("------")
 
 
-bot = TicTacToeBot()
+# bot = TicTacToeBot()
 
 
 @bot.command()
@@ -138,4 +138,4 @@ async def tic(ctx: commands.Context):
     await ctx.send("Tic Tac Toe: X goes first", view=TicTacToe())
 
 
-bot.run("token")
+# bot.run("token")
