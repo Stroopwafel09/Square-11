@@ -129,7 +129,7 @@ class TicTacToeBot(commands.Bot):
         print("------")
 
 
-# bot = TicTacToeBot()
+bot = TicTacToeBot()
 
 
 @bot.command()
