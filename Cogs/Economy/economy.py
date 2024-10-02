@@ -6,7 +6,7 @@ import json
 import random
 
 
-os.chdir("D:\Discord bots\Okinomia")
+# os.chdir("D:\Discord bots\Okinomia")
 
 
 client = commands.Bot(command_prefix='ok ')
