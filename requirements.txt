@@ -11,3 +11,6 @@ utils
 async_timeout
 googlesearch-python
 beautifulsoup4
+functions-framework
+requests==2.20.0
+numpy
