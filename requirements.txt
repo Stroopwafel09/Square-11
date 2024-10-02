@@ -10,4 +10,4 @@ flask
 utils
 async_timeout
 googlesearch
-beautifulsoup4 as bs4
+beautifulsoup4
