@@ -9,5 +9,5 @@ aiohttp
 flask
 utils
 async_timeout
-googlesearch
+googlesearch-python
 beautifulsoup4
