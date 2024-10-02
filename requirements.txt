@@ -8,3 +8,4 @@ asyncpraw
 aiohttp
 flask
 utils
+async_timeout
